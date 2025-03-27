@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
             monstersList.insertBefore(monsterDiv, monstersList.firstChild);
 
-            //clear form fields
+           
             document.getElementById('name').value = '';
             document.getElementById('age').value = '';
             document.getElementById('description').value = '';
